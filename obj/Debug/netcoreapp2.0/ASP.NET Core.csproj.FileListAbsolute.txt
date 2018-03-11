@@ -8,3 +8,13 @@
 /Users/wesleyalves/Projects/ASP.NET Core/Console/obj/Debug/netcoreapp2.0/ASP.NET Core.AssemblyInfo.cs
 /Users/wesleyalves/Projects/ASP.NET Core/Console/obj/Debug/netcoreapp2.0/ASP.NET Core.dll
 /Users/wesleyalves/Projects/ASP.NET Core/Console/obj/Debug/netcoreapp2.0/ASP.NET Core.pdb
+/Users/wesleyalves/Projects/ASP.NET Core/Middleware/bin/Debug/netcoreapp2.0/ASP.NET Core.deps.json
+/Users/wesleyalves/Projects/ASP.NET Core/Middleware/bin/Debug/netcoreapp2.0/ASP.NET Core.runtimeconfig.json
+/Users/wesleyalves/Projects/ASP.NET Core/Middleware/bin/Debug/netcoreapp2.0/ASP.NET Core.runtimeconfig.dev.json
+/Users/wesleyalves/Projects/ASP.NET Core/Middleware/bin/Debug/netcoreapp2.0/ASP.NET Core.dll
+/Users/wesleyalves/Projects/ASP.NET Core/Middleware/bin/Debug/netcoreapp2.0/ASP.NET Core.pdb
+/Users/wesleyalves/Projects/ASP.NET Core/Middleware/obj/Debug/netcoreapp2.0/ASP.NET Core.csproj.CoreCompileInputs.cache
+/Users/wesleyalves/Projects/ASP.NET Core/Middleware/obj/Debug/netcoreapp2.0/ASP.NET Core.AssemblyInfoInputs.cache
+/Users/wesleyalves/Projects/ASP.NET Core/Middleware/obj/Debug/netcoreapp2.0/ASP.NET Core.AssemblyInfo.cs
+/Users/wesleyalves/Projects/ASP.NET Core/Middleware/obj/Debug/netcoreapp2.0/ASP.NET Core.dll
+/Users/wesleyalves/Projects/ASP.NET Core/Middleware/obj/Debug/netcoreapp2.0/ASP.NET Core.pdb

@@ -5275,11 +5275,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wesleyalves/Projects/ASP.NET Core/Console/ASP.NET Core.csproj",
+      "projectUniqueName": "/Users/wesleyalves/Projects/ASP.NET Core/Middleware/ASP.NET Core.csproj",
       "projectName": "ASP.NET Core",
-      "projectPath": "/Users/wesleyalves/Projects/ASP.NET Core/Console/ASP.NET Core.csproj",
+      "projectPath": "/Users/wesleyalves/Projects/ASP.NET Core/Middleware/ASP.NET Core.csproj",
       "packagesPath": "/Users/wesleyalves/.nuget/packages/",
-      "outputPath": "/Users/wesleyalves/Projects/ASP.NET Core/Console/obj/",
+      "outputPath": "/Users/wesleyalves/Projects/ASP.NET Core/Middleware/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
